@@ -133,7 +133,7 @@ animation: swap 20s linear infinite;
     color: #ffa500;
     font-family: sans-serif;
     font-size: var(--tsh3);
-    text-align;:left
+    text-align:left;
 }
 
 .t2{
