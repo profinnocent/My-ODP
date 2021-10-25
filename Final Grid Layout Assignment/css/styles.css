@@ -13,6 +13,9 @@
     --tsh5:15px;
     --tsh6:10px;
     --tsp:5px;
+    --pd5px:5px;
+    --pd10px:10px;
+    --pd20px:20px;
 
 }
 
@@ -133,7 +136,7 @@ animation: swap 20s linear infinite;
     color: #ffa500;
     font-family: sans-serif;
     font-size: var(--tsh3);
-    text-align;:left
+    text-align:left;
 }
 
 .t2{
